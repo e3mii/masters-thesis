@@ -135,6 +135,12 @@ Key characteristics:
 
 ---
 
+## 🎥 Demo Video
+
+[![Watch the demo](https://img.youtube.com/vi/wn_7YV77zco/maxresdefault.jpg)](https://www.youtube.com/watch?v=wn_7YV77zco)
+
+---
+
 ## 📄 Thesis Document
 
 The full thesis document (Croatian) is available upon request.
