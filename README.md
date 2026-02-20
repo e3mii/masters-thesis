@@ -1,6 +1,6 @@
 # 🎓 Master’s Thesis – Multi-Agent System in Unity using ML-Agents
 
-This repository contains the implementation developed for my Master’s thesis:
+This repository contains the development overview of my Master’s thesis:
 
 **“Implementation and Analysis of a Multi-Agent System through Game Development in Unity using ML-Agents”**  
 Faculty of Organization and Informatics, University of Zagreb (2024)
